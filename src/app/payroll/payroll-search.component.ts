@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
     <article>
       <header>Payroll Functionality</header>
       <p>Search for Employee Payroll Records</p>
-      <app-search-box></app-search-box>
+      <app-search-box />
     </article>
   `
 })
